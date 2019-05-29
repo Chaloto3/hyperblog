@@ -5,6 +5,20 @@ body {
 	text-align: center;
 }
 
+header {
+	background-color: lightgray;
+	color: black;
+	text-align: center;
+	margin: 2em;
+}
+
 h2 {
 	color: orange;
+}
+
+.container {
+	width: 70%;
+	margin: 0 auto;
+	margin: 2em;
+	text-align: left;
 }
