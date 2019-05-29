@@ -22,3 +22,7 @@ h2 {
 	margin: 2em;
 	text-align: left;
 }
+
+.container p {
+	font-family: Courier
+}
