@@ -6,10 +6,17 @@ body {
 }
 
 header {
-	background-color: lightgray;
-	color: black;
+	background-color: #287233;
+	color: width;
+	font-weight: bold;
 	text-align: center;
-	margin: 2em;
+	padding: 2em;
+}
+
+header span {
+	color: width;
+	font-weight: normal;
+	font-size: .5em;
 }
 
 h2 {
